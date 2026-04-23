@@ -112,3 +112,4 @@ output_box = tk.Text(card,
 output_box.pack(fill="both", expand=True)
 
 root.mainloop()
+# frontend built
