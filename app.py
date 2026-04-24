@@ -113,3 +113,5 @@ output_box.pack(fill="both", expand=True)
 
 root.mainloop()
 # frontend built
+
+# dark theme added
